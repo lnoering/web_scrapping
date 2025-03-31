@@ -14,3 +14,5 @@
 # Allow specific folder and its contents
 !bin/
 !bin/**
+!image/
+!image/**

@@ -5,7 +5,7 @@
 
 1) Docker installed
 2) the csv file with the urls.
-    - The file need be urls.csv
+    - The file need be [urls.csv](https://github.com/lnoering/web_scrapping/blob/main/urls.csv)
 
 ## How To Use
 
@@ -31,7 +31,7 @@
         bin/start
     ```
 
-5) Run the script.js to extract the data
+5) Run the scrapper file
     ```code
         bin/run
     ```
@@ -41,3 +41,9 @@
 ## Notes
 
 - This was executed on MAC, with apple chip.
+
+
+## Images
+
+![urls.csv](https://github.com/lnoering/web_scrapping/blob/main/image/urls.csv.png)
+![output.csv](https://github.com/lnoering/web_scrapping/blob/main/image/output.csv.png)
