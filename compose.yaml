@@ -1,0 +1,11 @@
+services:
+  scraper:
+    build: .
+    container_name: puppeteer-scraper
+    volumes:
+      - .:/app
+      - /app/node_modules
+    working_dir: /app
+    tty: true  # Keeps the container running without executing a script
+    restart: always 
+    # command: ["node", "scraper.js"]

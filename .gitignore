@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# Allow specific files
+!.gitignore
+!README.md
+!compose.yaml
+!Dockerfile
+!LICENSE
+!output.csv
+!scraper.js
+!urls.csv
+
+# Allow specific folder and its contents
+!bin/
+!bin/**

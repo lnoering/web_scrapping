@@ -1,0 +1,4 @@
+#!/bin/bash
+set -o errexit
+
+bin/docker-compose up --remove-orphans "$@"
