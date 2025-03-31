@@ -44,6 +44,10 @@
 
 
 ## Images
+> [urls.csv](https://github.com/lnoering/web_scrapping/blob/main/urls.csv)
 
 ![urls.csv](https://github.com/lnoering/web_scrapping/blob/main/image/urls.csv.png)
+
+> [output.csv](https://github.com/lnoering/web_scrapping/blob/main/output.csv)
+
 ![output.csv](https://github.com/lnoering/web_scrapping/blob/main/image/output.csv.png)
