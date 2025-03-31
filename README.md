@@ -11,7 +11,7 @@
 
 1)  Define the rule to scrap.
     
-    > Need define that on this file: scraper.js
+    > Need define that on this file: [scraper.js](https://github.com/lnoering/web_scrapping/blob/main/scraper.js)
     
     > On this sample you will see the the rule to scrap on line 45.
     ```code
@@ -36,7 +36,7 @@
         bin/run
     ```
 
-6) The file will create the output.csv and you will see on console the process executing.
+6) The file will create the [output.csv](https://github.com/lnoering/web_scrapping/blob/main/output.csv) and you will see on console the process executing.
 
 ## Notes
 
